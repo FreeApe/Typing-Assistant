@@ -1,14 +1,7 @@
 ## Typing-Assistant ##
 
-<div style="background-color:yellow;height:30px;text-align:center;font-family:SimHei;font-weight:900;color:black;line-height:30px;font-size:12;float:left;margin:1px 2px 2px 0px;">
-打字练习软件
-</div>
-<div style="background-color:#76EE00;height:30px;text-align:center;font-family:SimHei;font-weight:900;color:black;line-height:30px;font-size:12;float:left;margin:1px 2px 2px 2px;">
-Linux
-</div>
-<div style="background-color:#B3EE3A;height:30px;text-align:center;font-family:SimHei;font-weight:900;color:black;line-height:30px;font-size:12;float:left;margin:1px 2px 2px 2px;">
-Gtk
-</div>
+**`打字练习软件`**&emsp;**`Linux`**&emsp;**`Gtk`**
+
 ----------
 
 ###1 功能说明
