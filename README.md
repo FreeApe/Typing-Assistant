@@ -1,5 +1,16 @@
 ## Typing-Assistant ##
-![打字练习软件](./images/tag1.png)&ensp;![Linux](./images/tag2.png)
+
+<div style="background-color:yellow;height:30px;text-align:center;font-family:SimHei;font-weight:900;color:black;line-height:30px;font-size:12;float:left;margin:1px 2px 2px 0px;">
+打字练习软件
+</div>
+<div style="background-color:#76EE00;height:30px;text-align:center;font-family:SimHei;font-weight:900;color:black;line-height:30px;font-size:12;float:left;margin:1px 2px 2px 2px;">
+Linux
+</div>
+<div style="background-color:#B3EE3A;height:30px;text-align:center;font-family:SimHei;font-weight:900;color:black;line-height:30px;font-size:12;float:left;margin:1px 2px 2px 2px;">
+Gtk
+</div>
+----------
+
 ###1 功能说明
 
 &emsp;&emsp;可以实现局域网内所有登录用户的打字速度比拼练习，实时显示当前登录用户的打字的各种状况和显示打字速度排名，很好地提高打字练习的兴趣。
