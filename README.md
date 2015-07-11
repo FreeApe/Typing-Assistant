@@ -1,4 +1,5 @@
 ## Typing-Assistant ##
+![打字练习软件](./images/tag1.png)&ensp;![Linux](./images/tag2.png)
 ###1 功能说明
 
 &emsp;&emsp;可以实现局域网内所有登录用户的打字速度比拼练习，实时显示当前登录用户的打字的各种状况和显示打字速度排名，很好地提高打字练习的兴趣。
